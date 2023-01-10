@@ -8,15 +8,18 @@ h3#museo{
     background-color: greenyellow;
 }
 
-h2#quien{
+div#quien{
     background-color: orange;
 }
 
-h3#descripción{
+p#descripción{
     background-color: orange;
 }
 
-h3#final{
+div#descripción{
+    background-color: orange;
+}
+div#final{
     text-align: center;
     background-color: blue;
 }
