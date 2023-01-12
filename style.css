@@ -3,6 +3,10 @@ h1#title{
     background-color: palegoldenrod;
 }
 
+nav{
+    background-color: greenyellow;
+}
+
 h3#museo{
     text-align: center;
     background-color: greenyellow;
